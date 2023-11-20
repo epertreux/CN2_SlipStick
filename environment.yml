@@ -4,4 +4,4 @@ channels:
 dependencies:
   - python
   - numpy
-  - matplotlib
+  - matplotlib.pyplot
